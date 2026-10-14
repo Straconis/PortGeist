@@ -27,7 +27,7 @@ PortGeist is a proposed portable, local-first autonomous computer operator. It o
 
 ## Proposed hardware
 
-Raspberry Pi 5 (16 GB is a research candidate), USB HDMI capture adapter, USB HID-capable controller or proven KVM hardware, 3.5â€“5-inch LCD, YES/NO/STOP controls, green/yellow/red status LEDs, cooling, and power supply. The Raspberry Pi AI HAT+ 2 is a candidate **only if** compatible models and practical performance are demonstrated.
+Raspberry Pi 5 (16 GB is a research candidate), USB HDMI capture adapter, USB HID-capable controller or proven KVM hardware, 3.5Ã¢â‚¬â€œ5-inch LCD, YES/NO/STOP controls, green/yellow/red status LEDs, cooling, and power supply. The Raspberry Pi AI HAT+ 2 is a candidate **only if** compatible models and practical performance are demonstrated.
 
 ## Documentation
 
@@ -43,3 +43,7 @@ Raspberry Pi 5 (16 GB is a research candidate), USB HDMI capture adapter, USB HI
 ## Project scope
 
 This repository records ideas, assumptions, requirements, and research questions. It is **not** a working product, build guide, or claim of validated feasibility. PortGeist is a working name; commercial name/trademark clearance has not been completed.
+
+## Additional Hardware Research
+
+- [Orange Pi 5 Plus + ESP32-S3 alternative](docs/orange-pi-alternative.md)
